@@ -908,6 +908,7 @@ pre .javascript .function {
 }
 .header {
   background: #fff;
+  background-image: url("/images/kobe14.png");
 }
 .header-inner {
   position: relative;
@@ -1544,7 +1545,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #4e91ac;
+  background: #74ffcf;
 }
 .sidebar-nav {
   margin: 0 0 20px;
